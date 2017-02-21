@@ -15,7 +15,7 @@
     "ORD_MER": "7",
     "EST_POST": "1",
     "RESULTADO": "ADMITIDO",
-    "FECHA_MAT": "23/02/17",
+    "FECHA_MAT": "2017-02-21",
     "HORA": "9:00 a.m.",
     "LUGAR_MAT": "INGENIERIA Y ARQUITECTURA",
     "FOTO": "https://avatars0.githubusercontent.com/u/4741904?v=3&s=460"
