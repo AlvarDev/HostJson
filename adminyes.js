@@ -18,6 +18,6 @@
     "FECHA_MAT": "2017-02-21",
     "HORA": "9:00 a.m.",
     "LUGAR_MAT": "INGENIERIA Y ARQUITECTURA",
-    "FOTO": "https://avatars0.githubusercontent.com/u/4741904?v=3&s=460"
+    "FOTO": "https://media.licdn.com/media/p/8/005/035/137/081ed25.jpg"
   }
 }
