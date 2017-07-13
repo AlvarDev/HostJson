@@ -1,0 +1,74 @@
+{
+  "channels": [
+    {
+      "name": "Fox Life",
+      "logo": "http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br",
+      "number": "1-1",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1817.ts",
+      "category": "Variedades"
+    },
+    {
+      "name": "Fox Life HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",
+      "number": "1-2",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/2159.ts",
+      "category": "Variedades"
+    },
+    {
+      "name": "Fox Sports",
+      "logo": "http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png",
+      "number": "2-1",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1815.ts",
+      "category": "Esportes"
+    },
+    {
+      "name": "Fox Sports HD",
+      "logo": "http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303",
+      "number": "2-2",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1816.ts",
+      "category": "Esportes"
+    },
+    {
+      "name": "Fox Sports 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png",
+      "number": "2-3",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1814.ts",
+      "category": "Esportes"
+    },
+    {
+      "name": "FOX",
+      "logo": "http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654",
+      "number": "3-1",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1820.ts",
+      "category": "Series"
+    },
+    {
+      "name": "FOX HD",
+      "logo": "http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png",
+      "number": "3-2",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/2160.ts",
+      "category": "Series"
+    },
+    {
+      "name": "Fox 1 HD",
+      "logo": "http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23",
+      "number": "3-3",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1819.ts",
+      "category": "Series"
+    },
+    {
+      "name": "Fox Action HD",
+      "logo": "http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445",
+      "number": "3-4",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1818.ts",
+      "category": "Series"
+    },
+    {
+      "name": "Futura",
+      "logo": "http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png",
+      "number": "4",
+      "url": "http://lista.sv1.tv:25461/live/magoito@gmail.com/aXTfHrDv9a/1813.ts",
+      "category": "Documentarios"
+    }
+  ]
+}
